@@ -14,3 +14,4 @@ randomcolor==0.4.4.6
 setuptools==79.0.1
 supervisor==4.3.0
 wheel==0.45.1
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
